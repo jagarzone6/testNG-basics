@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="9" started-at="2017-11-22T15:52:05Z" finished-at="2017-11-22T15:52:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9" started-at="2017-11-22T15:52:05Z" finished-at="2017-11-22T15:52:05Z">
+      <class name="examples.AnnotationsTwo">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:examples.AnnotationsTwo@7d907bac]" name="BeforeSuite" is-config="true" duration-ms="8" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:examples.AnnotationsTwo@7d907bac]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- examples.AnnotationsTwo -->
+      <class name="examples.Annotations">
+        <test-method status="PASS" signature="Before()[pri:0, instance:examples.Annotations@65e2dbf3]" name="Before" is-config="true" duration-ms="1" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method status="PASS" signature="Atest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="Atest" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="AfterTest" is-config="true" duration-ms="1" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="AfterTest" is-config="true" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="Btest()[pri:0, instance:examples.Annotations@65e2dbf3]" name="Btest" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Btest -->
+        <test-method status="PASS" signature="After()[pri:0, instance:examples.Annotations@65e2dbf3]" name="After" is-config="true" duration-ms="0" started-at="2017-11-22T10:52:05Z" finished-at="2017-11-22T10:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- examples.Annotations -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
