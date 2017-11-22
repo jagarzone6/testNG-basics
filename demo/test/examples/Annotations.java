@@ -1,9 +1,6 @@
 package examples;
 
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 public class Annotations {
 
@@ -28,9 +25,14 @@ public class Annotations {
         System.out.println("A TESTNG");
     }
 
+    @AfterMethod
+    public void AfterTest() {
+        System.out.println("After test");
+    }
+
 
     @AfterTest
-    public void AfterAll(){
+    public void After(){
         System.out.println("END");
 
     }
